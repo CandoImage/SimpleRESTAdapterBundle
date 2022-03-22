@@ -18,7 +18,7 @@
   "require": {
     "php": ">=7.2",
     "ongr/elasticsearch-dsl": "^7.0",
-    "pimcore/data-hub": "~1.0.11",
+    "pimcore/data-hub": "dev-cando-customizations",
     "pimcore/pimcore": "^6.9",
     "symfony/messenger": "^4.0",
     "zircote/swagger-php": "^3.0"
